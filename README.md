@@ -3,4 +3,4 @@ zadania na zaliczenie
 MongoDB a Oracle
 ========
 
- <img src="https://github.com/wardzinskaj/neo4jzadania/blob/master/graf_caly.jpg"> 
+ <img src="https://github.com/wardzinskaj/nosqlzal/blob/master/java_project/mongo_count.png"> 
