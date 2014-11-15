@@ -20,3 +20,5 @@ MongoDB a Oracle
 <img src="https://github.com/wardzinskaj/nosqlzal/blob/master/java_project/oracle_count.png">
 <p></p>
 <p>Czas importu do bazy Oracla wyniósł 13 godzin i 47 minut podczas gdy do bazy Mongodb tylko 27 minut.</p>
+<p>Import do bazy Mongodb zużywał zdecydowanie mniej zasobów procesora oraz mniej pamięci RAM.</p>
+<p>W przypadku importu do bazy Oracle obciążenie procesora jest przez większość czasu maksymalne</p>
