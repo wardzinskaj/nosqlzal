@@ -2,7 +2,8 @@ zadania na zaliczenie
 
 MongoDB a Oracle
 ========
-
+<p>Jak się okazało na zajęciach moje importy trwały dużo dłużej niż studentów, których projekty były przeglądane.</p>
+<p>Pracowałam na systemie operacyjnym Linux Centos (maszynie wirtualnej).</p>
 
  <p>Import do bazy Mongodb przy użyciu mongoimport</p>
  <img src="https://github.com/wardzinskaj/nosqlzal/blob/master/java_project/mongodb_import.png"> 
